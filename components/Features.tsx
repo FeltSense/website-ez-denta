@@ -31,7 +31,7 @@ export default function Features() {
     {
       icon: Clock,
       title: 'Same-Day Emergencies',
-      description: 'Dental emergencies don't wait—and neither do we. Same-day appointments available for urgent care when you need it most.',
+      description: 'Dental emergencies don\'t wait—and neither do we. Same-day appointments available for urgent care when you need it most.',
       highlight: true
     },
     {
